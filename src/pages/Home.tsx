@@ -1,6 +1,6 @@
 function Home() {
     return <div>
-        <h1>home page, introducing the dev branch.</h1>
+        <h1>home page</h1>
     </div>
 }
 
